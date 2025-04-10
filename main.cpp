@@ -1,3 +1,10 @@
+/*
+Senza utilizzare la libreria <string.h>, scrivere un programma strutturato in
+sottoprogrammi che inserita una stringa nello stdin la inverte
+modificandola.
+ */
+
+
 #include <iostream>
 
 using namespace std;
